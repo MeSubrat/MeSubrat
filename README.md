@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Subrat Kumar Sahoo
-- 👀 I’m looking for helping guys..
-- 🌱 I’m currently learning C language.
-- 💞️ Everyone has that right to guide me.
--->printf("Thanks");
+Welcome to My Github Profile!
